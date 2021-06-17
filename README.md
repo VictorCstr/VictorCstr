@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorCstr
+- 👋 Hi, I'm Victor Castro de Oliveira
 - 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning Css, Python
 - 💞️ I’m looking to collaborate on ...
