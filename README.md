@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Victor Castro de Oliveira
-- 👀 I’m interested in Javascript and React
-- 🌱 I’m currently learning Css, Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Javascript with node and react
+- 🌱 I’m currently studying Javascript.
 - 📫 How to reach me: victorcastro.dev@hotmail.com or (12) 98196-1320
 
 <!---
