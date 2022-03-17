@@ -12,7 +12,7 @@ object **Victor** {
  val name = "Victor Castro"
  val age = "22 anos"
  val level = "Junior"
- val hardSkills = listOf("JavaScript", "Node", "React", "ReactNative", "TypeScript") 
+ val hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", MySQL, MongoDB) 
 }
 ```
 
