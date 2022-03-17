@@ -8,11 +8,11 @@ Como a maioria comecei no front end, mas acabei despertando um grande interesse 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Victor** {
- val name = "Victor Castro"
- val age = "22 anos"
- val level = "Junior"
- val hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", MySQL, MongoDB) 
+let Victor Castro = {
+ let age = "22 anos"
+ let level = "Junior"
+ let hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB") 
+ let learning = listOf("Docker", "AWS", "TDD", "Streams e Buffer", "PostgreSQL")
 }
 ```
 
@@ -38,8 +38,6 @@ object **Victor** {
 ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 ## **GitHub Estatísticas**
 <a href="https://github.com/Gurupreet">
