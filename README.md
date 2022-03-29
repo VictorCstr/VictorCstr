@@ -11,7 +11,7 @@ Como a maioria comecei no front end, mas acabei despertando um grande interesse 
 let Victor Castro = {
  let age = "22 anos"
  let level = "Junior"
- let hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB") 
+ let hardSkills = listOf("JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB", "POO") 
  let learning = listOf("Docker", "AWS", "TDD", "Streams e Buffer", "PostgreSQL")
 }
 ```
