@@ -11,8 +11,9 @@ Como a maioria comecei no front end, mas acabei despertando um grande interesse 
 let Victor Castro = {
  let age = "22 anos"
  let level = "Junior"
- let hardSkills = ["JavaScript", "Node", "React", "TypeScript", "MySQL", "MongoDB", "PostgreSQL", "POO"]
- let learning = ["Docker", "AWS", "TDD", "Streams e Buffer"]
+ let hardSkills = ["JavaScript", "TypeScript", "Node", "EJS", "GraphQL", "MySQL",
+     "MongoDB", "PostgreSQL", "POO", "React", "Bootstrap", "HTML5", "CSS3"]
+ let learning = ["Docker", "AWS", "TDD"]
 }
 ```
 
@@ -27,6 +28,8 @@ let Victor Castro = {
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -40,6 +43,7 @@ let Victor Castro = {
 ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## **GitHub Estatísticas**
 <a href="https://github.com/Gurupreet">
