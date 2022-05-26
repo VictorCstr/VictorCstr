@@ -5,20 +5,6 @@ Como a maioria comecei no front end, mas acabei despertando um grande interesse 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
 
-```kotlin
-let Victor Castro = {
- let age = "22 anos"
- let level = "Junior"
- let hardSkills = ["JavaScript", "TypeScript", "Node", "EJS", "GraphQL","MySQL",
-   "MongoDB", "PostgreSQL", "POO", "React", "Bootstrap", "HTML5", "CSS3"]
- let learning = ["Docker", "AWS", "TDD"]
-}
-```
-
-<img width="900" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
-
 ## **Linguagens e Ferramentas:**  
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,6 +36,19 @@ let Victor Castro = {
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+```kotlin
+let Victor Castro = {
+ let age = "22 anos"
+ let level = "Junior"
+ let hardSkills = ["JavaScript", "TypeScript", "Node", "EJS", "GraphQL","MySQL",
+   "MongoDB", "PostgreSQL", "POO", "React", "Bootstrap", "HTML5", "CSS3"]
+ let learning = ["Docker", "AWS", "TDD"]
+}
+```
+
+<img width="900" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ## **GitHub Estatísticas**
 <a href="https://github.com/Gurupreet">
