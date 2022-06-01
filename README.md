@@ -43,8 +43,8 @@ let Victor Castro = {
  let age = "22 anos"
  let level = "Junior"
  let hardSkills = ["JavaScript", "TypeScript", "Node", "EJS", "GraphQL","MySQL",
-   "MongoDB", "PostgreSQL", "POO", "React", "Bootstrap", "HTML5", "CSS3"]
- let learning = ["Docker", "AWS", "TDD"]
+   "MongoDB", "PostgreSQL", "POO", "Solid", "Clean Arch", "React", "Bootstrap", "HTML5", "CSS3", "Docker", "Jest"]
+ let learning = ["AWS", "TDD"]
 }
 ```
 
