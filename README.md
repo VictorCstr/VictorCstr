@@ -1,7 +1,7 @@
 ### Olá visitante 👋
 
-Gosto de quebrar a cabeça arrumando bugs. Mais precisamente na hora que consigo resolvê-lo. <br>
-Como a maioria comecei no front end, mas acabei despertando um grande interesse no back ao me aventurar com o Node e agora estou cada vez mais aprendendo sobre, para me descobrir!
+Gosto de quebrar a cabeça resolvendo bugs. Ansiando pelo momento onde consigo resolvê-lo trazendo aquele alivio. <br>
+Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertando um grande interesse no back ao me aventurar com o Node no qual eu realmente me descobri. Com isto meus estudos focaram totalmente em back-end e sigo neste lado!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
 
