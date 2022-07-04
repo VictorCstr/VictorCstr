@@ -41,7 +41,6 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 ```kotlin
 let Victor Castro = {
  let age = "22 anos"
- let level = "Junior"
  let hardSkills = ["JavaScript", "TypeScript", "Node", "EJS", "GraphQL","MySQL",
    "MongoDB", "PostgreSQL", "POO", "Solid", "Clean Arch", "React", "Bootstrap", "HTML5", "CSS3", "Docker", "Jest"]
  let learning = ["AWS", "TDD"]
