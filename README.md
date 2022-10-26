@@ -1,9 +1,15 @@
 ### Olá visitante 👋
 
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
+
 Gosto de quebrar a cabeça resolvendo bugs. Ansiando pelo momento onde consigo resolvê-lo trazendo aquele alivio. <br>
 Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertando um grande interesse no back ao me aventurar com o Node no qual eu realmente me descobri. Com isto meus estudos focaram totalmente em back-end e sigo neste lado!
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Quem eu sou
+
+[linkedin]: https://www.linkedin.com/in/victorcastr/
+
+👔 [Linkedin][linkedin]
 
 ## **Linguagens e Ferramentas:**  
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,23 +55,7 @@ let Victor Castro = {
 
 <img width="900" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## **GitHub Estatísticas**
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcstr&theme=dracula&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcstr&show_icons=true&theme=dracula&line_height=27" alt="**Victor Castro** github stats"/>
-</a>
-
-[instagram]: https://instagram.com/victorcastr/
-[linkedin]: https://www.linkedin.com/in/victorcastr/
-
-#### Rede Sociais!
-
-🏡 [Website] Loading... **|** 
-📷 [Instagram][instagram] **|** 
-👔 [Linkedin][linkedin]
 
 
 
