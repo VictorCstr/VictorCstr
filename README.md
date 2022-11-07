@@ -48,8 +48,8 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 let Victor Castro = {
  let age = "22 anos"
  let hardSkills = ["JavaScript", "Typescript", "Node.js", "Express", "ApolloServer", "EJS",
- "GraphQL","MySQL","MongoDB", "PostgreSQL", "POO", "SOLID", "Clean Arch",
- "Redis", "RabbitMQ", "Bootstrap", "HTML5", "CSS3", "Docker", "Jest", "AWS": { "S3", "Lambda" }, GCS,  "Microsserviços" ]
+ "GraphQL", "RestAPI" , "MySQL","MongoDB", "PostgreSQL", "POO", "SOLID", "Clean Architecture",
+ "Redis", "RabbitMQ", "Bootstrap", "HTML5", "CSS3", "Docker", "Jest", "AWS", "GCS", "Microsserviços" ]
 }
 ```
 
