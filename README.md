@@ -8,7 +8,7 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 
 - Hoje em dia já tenho experiência em back-end com o Node e seu ecossistema, trabalhei tanto com microsserviços quanto monolito, com orientação a objetos e estrutura funcional, com estrutura clean arch e usando solid. Testes unitários e de integração, Fiz integrações com a AWS e GCP, usei mensageria com RabbitMQ e cache com REDIS, docker e docker-compose, entre outras ferramentas.
 
-- Hoje estou em evolução com Angular, C# e Java.
+- Hoje estou em evolução com Angular, C#.
 
 [linkedin]: https://www.linkedin.com/in/victorcastr/
 
