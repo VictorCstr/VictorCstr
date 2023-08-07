@@ -6,7 +6,7 @@
 - Gosto de quebrar a cabeça resolvendo bugs. Ansiando pelo momento onde consigo resolvê-lo trazendo aquele alivio. <br>
 Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertando um grande interesse no back ao me aventurar com o Node no qual eu realmente me descobri. Com isto meus estudos focaram totalmente em back-end e sigo neste lado!
 
-- Hoje em dia já tenho experiência em back-end com o Node e seu ecossistema, trabalhei tanto com microsserviços quanto monolito, com orientação a objetos e estrutura funcional, com estrutura clean arch e usando solid. Testes unitários e de integração, Fiz integrações com a AWS e GCP, usei mensageria com RabbitMQ e cache com REDIS, docker e docker-compose, entre outras ferramentas.
+- Hoje em dia já tenho experiência em back-end com o Node e seu ecossistema, trabalhei tanto com microsserviços quanto monolito, com orientação a objetos e estrutura funcional, com boas praticas de arquitetura utilizando Clean Arch e Solid. Testes unitários e de integração, Fiz integrações com as plataformas AWS, GCP e Azure, utilizando Mensageria e Cache, docker e docker-compose, entre outras ferramentas.
 
 - Hoje estou em evolução com Angular, C#.
 
