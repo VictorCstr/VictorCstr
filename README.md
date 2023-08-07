@@ -11,8 +11,8 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 - Hoje estou em evolução com Angular, C#.
 
 [linkedin]: https://www.linkedin.com/in/victorcastr/
-
 👔 [Linkedin][linkedin]
+
 
 ## **Linguagens e Ferramentas:**  
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,8 +53,8 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
-<img width="900" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcstr)](https://github.com/victorcstr/github-readme-stats)  |
+<img width="500" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 
