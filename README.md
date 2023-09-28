@@ -8,7 +8,7 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 
 - Hoje em dia já tenho experiência em back-end com o Node e seu ecossistema, trabalhei tanto com microsserviços quanto monolito, com orientação a objetos e estrutura funcional, com boas praticas de arquitetura utilizando Clean Arch e Solid. Testes unitários e de integração, Fiz integrações com as plataformas AWS, GCP e Azure, utilizando Mensageria e Cache, docker e docker-compose, entre outras ferramentas.
 
-- Hoje também estou com grande aprendizado e em evolução com Angular, C#.
+- Hoje também estou com grande aprendizado e em evolução com Angular, Vue e C#.
 
 [linkedin]: https://www.linkedin.com/in/victorcastr/
 👔 [Linkedin][linkedin]
@@ -21,6 +21,9 @@ Por padrão comecei pelo front end, mas ao decorrer da jornada acabei despertand
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
